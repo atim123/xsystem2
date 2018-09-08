@@ -7,5 +7,6 @@
     <packaging>pom</packaging>
     <modules>   
         <module>xsutils</module>
+        <module>sql2.2</module>
     </modules>
 </project>
